@@ -19,7 +19,7 @@
 4. **[명시적 변환, 암시적 변환, Nominal, 구조화, 덕 타이핑](./Concept4/Concept4.md)**
 5. **[== vs === vs typeof](./Concept5/Concept5.md)**
 6. **[함수 범위, 블록 범위, 렉시컬(lexical) 범위](./Concept6/Concept6.md)**
-7. **[식(expression) vs 문(statement)](#7-식expression-vs-문statement)**
+7. **[식(expression) vs 문(statement)](./Concept7/Concept7.md)**
 8. **[IIFE, Modules, Namespaces](#8-iife-modules-namespaces)**
 9. **[메시지 큐와 이벤트 루프](#9-메시지-큐와-이벤트-루프)**
 10. **[setTimeout, setInterval, requestAnimationFrame](#10-settimeout-setinterval-requestanimationframe)**
