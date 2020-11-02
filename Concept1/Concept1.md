@@ -55,7 +55,7 @@ Call Stack은 자바스크립트에서 함수를 처리하는 핸들 중 하나�
 
 ### Written
 
-- 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack){:target="\_blank"}
+- 📜 [Call Stack — MDN](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack)
 
 ### Video
 
