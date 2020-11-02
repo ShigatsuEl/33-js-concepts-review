@@ -15,10 +15,10 @@
 
 1. **[호출 스택](./Concept1/Concept1.md)**
 2. **[원시 자료형](./Concept2/Concept2.md)**
-3. **[값 타입(Value Type)과 참조 타입(Refecrence Type)](#3-값-타입value-type과-참조-타입refecrence-type)**
-4. **[명시적 변환, 암시적 변환, Nominal, 구조화, 덕 타이핑](#4-명시적-변환-암시적-변환-nominal-구조화-덕-타이핑)**
-5. **[== vs === vs typeof](#5--vs--vs-typeof)**
-6. **[함수 범위, 블록 범위, 렉시컬(lexical) 범위](#6-함수-범위-블록-범위-렉시컬lexical-범위)**
+3. **[값 타입(Value Type)과 참조 타입(Refecrence Type)](./Concept3/Concept3.md)**
+4. **[명시적 변환, 암시적 변환, Nominal, 구조화, 덕 타이핑](./Concept4/Concept4.md)**
+5. **[== vs === vs typeof](./Concept5/Concept5.md)**
+6. **[함수 범위, 블록 범위, 렉시컬(lexical) 범위](./Concept6/Concept6.md)**
 7. **[식(expression) vs 문(statement)](#7-식expression-vs-문statement)**
 8. **[IIFE, Modules, Namespaces](#8-iife-modules-namespaces)**
 9. **[메시지 큐와 이벤트 루프](#9-메시지-큐와-이벤트-루프)**
