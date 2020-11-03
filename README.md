@@ -22,7 +22,7 @@
 13. **[DOM과 Layout Trees](./Concept13/Concept13.md)**
 14. **[팩토리와 클래스](./Concept14/Concept14.md)**
 15. **[this, call, apply, bind](./Concept15/Concept15.md)**
-16. **[new, 생성자, instanceof, 인스턴스](#16-new-생성자-instanceof-인스턴스)**
+16. **[new, 생성자, instanceof, 인스턴스](./Concept16/Concept16.md)**
 17. **[프로토타입의 상속과 체인](#17-프로토타입의-상속과-체인)**
 18. **[Object.create와 Object.assign](#18-objectcreate와-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
