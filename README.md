@@ -16,8 +16,8 @@
 4일 안에 끝내는 것을 목표로 한다.<br>
 
 9. **[메시지 큐와 이벤트 루프](./Concept9/Concept9.md)**
-10. **[setTimeout, setInterval, requestAnimationFrame](#10-settimeout-setinterval-requestanimationframe)**
-11. **[자바스크립트 엔진](#11-자바스크립트-엔진)**
+10. **[setTimeout, setInterval, requestAnimationFrame](./Concept9/Concept9.md)**
+11. **[자바스크립트 엔진](./Concept11/Concept11.md)**
 12. **[비트 연산자, 형식화 배열, 버퍼(배열)](#12-비트-연산자-형식화-배열-버퍼배열)**
 13. **[DOM과 Layout Trees](#13-dom과-layout-trees)**
 14. **[팩토리와 클래스](#14-팩토리와-클래스)**
