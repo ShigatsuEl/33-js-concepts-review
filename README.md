@@ -17,11 +17,11 @@
 
 17. **[프로토타입의 상속과 체인](./Concept17/Concept17.md)**
 18. **[Object.create와 Object.assign](./Concept18/Concept18.md)**
-19. **[map, reduce, filter](./Concept19/Cocnept19.md)**
-20. **[순수함수, 부수효과, 상태변이](./Concept20/Cocnetp20.md)**
-21. **[클로저(Closures)](#21-클로저closures)**
-22. **[고차함수](#22-고차함수)**
-23. **[재귀](#23-재귀)**
+19. **[map, reduce, filter](./Concept19/Concept19.md)**
+20. **[순수함수, 부수효과, 상태변이](./Concept20/Concept20.md)**
+21. **[클로저(Closures)](./Concept21/Concept21.md)**
+22. **[고차함수](./Concept22/Concept22.md)**
+23. **[재귀](./Concept23/Concept23.md)**
 24. **[컬렉션과 생성기](#24-컬렉션과-생성기)**
 25. **[Promises](#25-promises)**
 26. **[async/await](#26-asyncawait)**
