@@ -15,8 +15,8 @@
 
 4일 안에 끝내는 것을 목표로 한다.<br>
 
-17. **[프로토타입의 상속과 체인](#17-프로토타입의-상속과-체인)**
-18. **[Object.create와 Object.assign](#18-objectcreate와-objectassign)**
+17. **[프로토타입의 상속과 체인](./Concept17/Concept17.md)**
+18. **[Object.create와 Object.assign](./Concept18/Concept18.md)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
 20. **[순수함수, 부수효과, 상태변이](#20-순수함수-부수효과-상태변이)**
 21. **[클로저(Closures)](#21-클로저closures)**
