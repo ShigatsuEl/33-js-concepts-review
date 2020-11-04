@@ -15,14 +15,6 @@
 
 4일 안에 끝내는 것을 목표로 한다.<br>
 
-9. **[메시지 큐와 이벤트 루프](./Concept9/Concept9.md)**
-10. **[setTimeout, setInterval, requestAnimationFrame](./Concept9/Concept9.md)**
-11. **[자바스크립트 엔진](./Concept11/Concept11.md)**
-12. **[비트 연산자, 형식화 배열, 버퍼(배열)](./Concept12/Concept12.md)**
-13. **[DOM과 Layout Trees](./Concept13/Concept13.md)**
-14. **[팩토리와 클래스](./Concept14/Concept14.md)**
-15. **[this, call, apply, bind](./Concept15/Concept15.md)**
-16. **[new, 생성자, instanceof, 인스턴스](./Concept16/Concept16.md)**
 17. **[프로토타입의 상속과 체인](#17-프로토타입의-상속과-체인)**
 18. **[Object.create와 Object.assign](#18-objectcreate와-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
@@ -51,14 +43,14 @@
 |   06    |      **[함수 범위, 블록 범위, 렉시컬(lexical) 범위](./Concept6/Concept6.md)**      | 20.11.02 |
 |   07    |           **[식(expression) vs 문(statement)](./Concept7/Concept7.md)**            | 20.11.02 |
 |   08    |              **[IIFE, Modules, Namespaces](./Concept8/Concept8.md)**               | 20.11.02 |
-|   09    |                                                                                    |          |
-|   10    |                                                                                    |          |
-|   11    |                                                                                    |          |
-|   12    |                                                                                    |          |
-|   13    |                                                                                    |          |
-|   14    |                                                                                    |          |
-|   15    |                                                                                    |          |
-|   16    |                                                                                    |          |
+|   09    |               **[메시지 큐와 이벤트 루프](./Concept9/Concept9.md)**                | 20.11.03 |
+|   10    |   **[setTimeout, setInterval, requestAnimationFrame](./Concept10/Concept10.md)**   | 20.11.03 |
+|   11    |                 **[자바스크립트 엔진](./Concept11/Concept11.md)**                  | 20.11.03 |
+|   12    |        **[비트 연산자, 형식화 배열, 버퍼(배열)](./Concept12/Concept12.md)**        | 20.11.03 |
+|   13    |                 **[DOM과 Layout Trees](./Concept13/Concept13.md)**                 | 20.11.03 |
+|   14    |                  **[팩토리와 클래스](./Concept14/Concept14.md)**                   | 20.11.03 |
+|   15    |              **[this, call, apply, bind](./Concept15/Concept15.md)**               | 20.11.03 |
+|   16    |         **[new, 생성자, instanceof, 인스턴스](./Concept16/Concept16.md)**          | 20.11.03 |
 |   17    |                                                                                    |          |
 |   18    |                                                                                    |          |
 |   19    |                                                                                    |          |
