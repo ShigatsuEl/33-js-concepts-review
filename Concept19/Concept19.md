@@ -58,6 +58,8 @@
    위 예제에서 filter 메서드는 배열 안의 요소 길이가 6 초과인 경우만 해당해 새로운 배열을 만듭니다.
    ```
 
+---
+
 ### Written
 
 - 📜 [Array.prototype.map() — MDN](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
