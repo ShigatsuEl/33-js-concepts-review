@@ -35,6 +35,8 @@ const student1 = new Student("홍길동", 20);
 typeOf는 primitive value의 타입을 알고자 할 때 사용합니다.<br>
 instanceOf는 객체 / 함수 / 배열과 같은 reference type의 타입을 알고자 할 때 사용합니다.<br>
 
+---
+
 ### Written
 
 - 📜 [JavaScript For Beginners: the 'new' operator — Brandon Morelli](https://codeburst.io/javascript-for-beginners-the-new-operator-cee35beb669e)
