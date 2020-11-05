@@ -23,8 +23,8 @@
 29. **[알고리즘](./Concept29/Concept29.md)**
 30. **[상속, 다형성, 코드의 재사용성](./Concept30/Concept30.md)**
 31. **[설계 패턴](./Concept31/Concept31.md)**
-32. **[부분 어플리케이션, 커링(Currying), Compose, Pipe](#32-부분-어플리케이션-커링currying-compose-pipe)**
-33. **[클린 코드](#33-클린-코드)**
+32. **[부분 어플리케이션, 커링(Currying), Compose, Pipe](./Concept33/Concept33.md)**
+33. **[클린 코드](./Concept33/Concept33.md)**
 
 | Concept |                                       Title                                        |   Date   |
 | :-----: | :--------------------------------------------------------------------------------: | :------: |
