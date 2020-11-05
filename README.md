@@ -15,13 +15,6 @@
 
 4일 안에 끝내는 것을 목표로 한다.<br>
 
-17. **[프로토타입의 상속과 체인](./Concept17/Concept17.md)**
-18. **[Object.create와 Object.assign](./Concept18/Concept18.md)**
-19. **[map, reduce, filter](./Concept19/Concept19.md)**
-20. **[순수함수, 부수효과, 상태변이](./Concept20/Concept20.md)**
-21. **[클로저(Closures)](./Concept21/Concept21.md)**
-22. **[고차함수](./Concept22/Concept22.md)**
-23. **[재귀](./Concept23/Concept23.md)**
 24. **[컬렉션과 생성기](#24-컬렉션과-생성기)**
 25. **[Promises](#25-promises)**
 26. **[async/await](#26-asyncawait)**
@@ -51,13 +44,13 @@
 |   14    |                  **[팩토리와 클래스](./Concept14/Concept14.md)**                   | 20.11.03 |
 |   15    |              **[this, call, apply, bind](./Concept15/Concept15.md)**               | 20.11.03 |
 |   16    |         **[new, 생성자, instanceof, 인스턴스](./Concept16/Concept16.md)**          | 20.11.03 |
-|   17    |                                                                                    |          |
-|   18    |                                                                                    |          |
-|   19    |                                                                                    |          |
-|   20    |                                                                                    |          |
-|   21    |                                                                                    |          |
-|   22    |                                                                                    |          |
-|   23    |                                                                                    |          |
+|   17    |              **[프로토타입의 상속과 체인](./Concept17/Concept17.md)**              | 20.11.04 |
+|   18    |           **[Object.create와 Object.assign](./Concept18/Concept18.md)**            | 20.11.04 |
+|   19    |                **[map, reduce, filter](./Concept19/Concept19.md)**                 | 20.11.04 |
+|   20    |            **[순수함수, 부수효과, 상태변이](./Concept20/Concept20.md)**            | 20.11.04 |
+|   21    |                  **[클로저(Closures)](./Concept21/Concept21.md)**                  | 20.11.04 |
+|   22    |                      **[고차함수](./Concept22/Concept22.md)**                      | 20.11.04 |
+|   23    |                        **[재귀](./Concept23/Concept23.md)**                        | 20.11.04 |
 |   24    |                                                                                    |          |
 |   25    |                                                                                    |          |
 |   26    |                                                                                    |          |
