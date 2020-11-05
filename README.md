@@ -16,7 +16,7 @@
 4일 안에 끝내는 것을 목표로 한다.<br>
 
 24. **[컬렉션과 생성기](./Concept24/Concept24.md)**
-25. **[Promises](#25-promises)**
+25. **[Promises](./Concept25/Concept25.md)**
 26. **[async/await](#26-asyncawait)**
 27. **[자료 구조](#27-자료-구조)**
 28. **[함수 성능과 빅 오(Big-O) 표기법](#28-함수-성능과-빅-오big-o-표기법)**
